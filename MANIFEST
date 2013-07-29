@@ -16,3 +16,4 @@ t/parent-pmc.t
 t/parent-returns-false.t
 t/parent.t
 META.yml                                 Module meta-data (added by MakeMaker)
+META.json                                Module JSON meta-data (added by MakeMaker)
